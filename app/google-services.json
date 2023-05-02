@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "149038372595",
+    "project_id": "littlemixprjfinal",
+    "storage_bucket": "littlemixprjfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149038372595:android:dd4bfe55b4162fd62d4986",
+        "android_client_info": {
+          "package_name": "com.example.littlemixprjfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149038372595-kg79003ccp1n0017cvfjqtlfb64b682r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.littlemixprjfinal",
+            "certificate_hash": "38eeb3f2e5516a5fc5d004a7c52737a319aef8ea"
+          }
+        },
+        {
+          "client_id": "149038372595-pncdsfu90f7q00d08bb0g51b9811ogn9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVFqcY4UEdMXfLjeb-hJtXOSA0hd4b6fw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149038372595-pncdsfu90f7q00d08bb0g51b9811ogn9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
